@@ -41,7 +41,7 @@ body {
  }
 
  #moonn {
-   font-size: 20px;
+   font-size: 15px;
     display: inline;
 
  } 
@@ -53,12 +53,12 @@ body {
 
  #moonn:hover {
     color: white;
-    font-size: 25px;
+    font-size: 20px;
  }
 
 
  #iconn {
-   font-size: 20px;
+   font-size: 15px;
     color: #56fcf1;
  }
 
@@ -69,5 +69,5 @@ body {
 
 #iconn:hover {
  color: white;
- font-size: 25px;
+ font-size: 20px;
 }
